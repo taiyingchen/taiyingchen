@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Amazon Web Services (AWS).
+- 🌱 I’m currently learning Docker and Distribution System.
+- 📫 How to reach me: [Send me email](mailto:taiying.tychen@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Borned in 🇹🇼, Based in Seattle
+
 <!--
 **taiyingchen/taiyingchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
