@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Amazon Web Services (AWS).
-- 🌱 I’m currently learning Containers and Distributed System.
-- 📫 How to reach me: [Send me email](mailto:taiying.tychen@gmail.com)
+- 🔭 I’m currently working at Amazon Web Services (AWS)
+- 🌱 I’m currently learning Containers and Distributed System
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Raised in Taiwan 🇹🇼 Based in Seattle 🇺🇸
 
