@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Amazon ECR
+- 🔭 I’m currently working on Amazon Elastic Container Registry (ECR)
 - ⚡ Fun fact: Raised in Taiwan 🇹🇼  Based in Seattle 🇺🇸
 
 <!--
