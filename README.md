@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Amazon Web Services (AWS)
-- 🌱 I’m currently learning Containers and Distributed System
+- 🔭 I’m currently working on Amazon ECR
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Raised in Taiwan 🇹🇼 Based in Seattle 🇺🇸
 
