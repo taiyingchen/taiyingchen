@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Amazon ECR
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Raised in Taiwan 🇹🇼 Based in Seattle 🇺🇸
+- ⚡ Fun fact: Raised in Taiwan 🇹🇼  Based in Seattle 🇺🇸
 
 <!--
 **taiyingchen/taiyingchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
